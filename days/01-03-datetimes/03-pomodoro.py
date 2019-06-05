@@ -4,32 +4,31 @@ from datetime import datetime
 from datetime import timedelta
 
 pomodoros = 0
-pom_delta = timedelta(minutes=25)
-break_delta = timedelta(minutes=3)
-bigbreak_delta = timedelta(minutes=30)
+# pom_delta = timedelta(minutes=25)
+# break_delta = timedelta(minutes=3)
+# bigbreak_delta = timedelta(minutes=30)
+
+pom_delta = timedelta(seconds=10)
+break_delta = timedelta(seconds=3)
+bigbreak_delta = timedelta(seconds=15)
+
 task = ""
 on_break = False
 
 alarm = datetime.today() + pom_delta
 
-print(datetime.today())
-print(pom_delta)
-print(alarm)
-
-print((datetime.today() > alarm))
-
-while 1:
+while True:
     if not on_break and (datetime.today() > alarm) and pomodoros < 4:
         print("Times up! Have a 3 minute break.")
         pomodoros += 1
         alarm = datetime.today() + break_delta
         on_break = True
+        print(pomodoros)
     elif on_break and (datetime.today() > alarm) and pomodoros < 4:
         print("Times up! Back to work")
-        pomodoros += 1
-        alarm = datetime.today() + break_delta
+        alarm = datetime.today() + pom_delta
         on_break = False
-    elif on_break and (datetime.today() > alarm):
+    elif on_break and (datetime.today() > alarm) and pomodoros > 3:
         print("Good work have a 30 minute break!")
         pomodoros = 0
         alarm = datetime.today() + bigbreak_delta
