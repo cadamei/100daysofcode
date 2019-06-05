@@ -1,6 +1,6 @@
 #!python3
 
-from datetime import datetime
+from datetime import datetime, timedelta
 # from datetime import date
 from datetime import timedelta
 
@@ -9,25 +9,26 @@ pom_delta = timedelta(minutes=25)
 break_delta = timedelta(minutes=3)
 bigbreak_delta = timedelta(minutes=30)
 task = ""
+on_break = False
 
 alarm = datetime.today() + pom_delta
 
 while 1:
-    if datetime.today() > alarm:
+    if not on_break and (datetime.today() > alarm):
         print("Times up! Have a 3 minute break.")
         pomodoros += 1
         alarm = datetime.today() + break_delta
+        on_break = True
+    elif on_break and (datetime.today() > alarm):
+        print("Times up! Back to work")
+        pomodoros += 1
+        alarm = datetime.today() + break_delta
+        on_break = False
     else:
         print("Good work have a 30 minute break!")
         pomodoros = 0
         alarm = datetime.today() + bigbreak_delta
-
-
-
-
-
-
-
+        on_break = False
 
 # 1. What is the task to be done?
 # 2. Set the pomodoro timer to 25 minutes
