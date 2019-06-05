@@ -1,7 +1,6 @@
 #!python3
 
-from datetime import datetime, timedelta
-# from datetime import date
+from datetime import datetime
 from datetime import timedelta
 
 pomodoros = 0
@@ -13,18 +12,24 @@ on_break = False
 
 alarm = datetime.today() + pom_delta
 
+print(datetime.today())
+print(pom_delta)
+print(alarm)
+
+print((datetime.today() > alarm))
+
 while 1:
-    if not on_break and (datetime.today() > alarm):
+    if not on_break and (datetime.today() > alarm) and pomodoros < 4:
         print("Times up! Have a 3 minute break.")
         pomodoros += 1
         alarm = datetime.today() + break_delta
         on_break = True
-    elif on_break and (datetime.today() > alarm):
+    elif on_break and (datetime.today() > alarm) and pomodoros < 4:
         print("Times up! Back to work")
         pomodoros += 1
         alarm = datetime.today() + break_delta
         on_break = False
-    else:
+    elif on_break and (datetime.today() > alarm):
         print("Good work have a 30 minute break!")
         pomodoros = 0
         alarm = datetime.today() + bigbreak_delta
