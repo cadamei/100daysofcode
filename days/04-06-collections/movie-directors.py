@@ -33,12 +33,15 @@ def get_movies_by_director(data=movies_csv):
 
 
 directors = get_movies_by_director()
-print(directors['Christopher Nolan'])
+print(directors)
+# print(directors['Christopher Nolan'])
 
 cnt = Counter()
 
 for director, movies in directors.items():
     cnt[director] += len(movies)
 
-print(cnt.most_common(5))
+# print(cnt.most_common(5))
 
+# defaultdict(<class 'list'>, {'James Cameron': [Movie(title='Avatar', year=2009, score=7.9), Movie(title='Titanic', year=1997, score=7.7), Movie(title='Terminator 2: Judgment Day', year=1991, score=8.5), Movie(title='True Lies', year=1994, score=7.2), Movie(title='The Abyss', year=1989, score=7.6), Movie(title='Aliens', year=1986, score=8.4), Movie(title='The
+# defaultdict(<class 'list'>, {'w3schools.comTHE': ['w3schools.comTHE'], "WORLD'S": ["WORLD'S"],
