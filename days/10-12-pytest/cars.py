@@ -22,9 +22,6 @@ def get_all_jeeps(cars=cars):
     return jeeps
 
 
-print(get_all_jeeps())
-
-
 def get_first_model_each_manufacturer(cars=cars):
     """return a list of matching models (original ordering)"""
     brooms = []
@@ -32,9 +29,6 @@ def get_first_model_each_manufacturer(cars=cars):
         brooms.append(values[0])
 
     return brooms
-
-
-print(get_first_model_each_manufacturer())
 
 
 def get_all_matching_models(cars=cars, grep='trail'):
@@ -50,9 +44,6 @@ def get_all_matching_models(cars=cars, grep='trail'):
     return greps
 
 
-print(get_all_matching_models())
-
-
 def sort_car_models(cars=cars):
     """return a copy of the cars dict with the car models (values)
        sorted alphabetically"""
@@ -62,4 +53,8 @@ def sort_car_models(cars=cars):
     return cars
 
 
-print(sort_car_models())
+if __name__ == "__main__":
+    print(get_all_jeeps())
+    print(get_first_model_each_manufacturer())
+    print(get_all_matching_models())
+    print(sort_car_models())
