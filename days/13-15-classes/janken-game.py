@@ -1,26 +1,9 @@
 #!python3
 
+# pretty much copied from https://github.com/coreyhermanson/100daysofcode
+
 import random
-
-
-class Player(name):
-    def __init__(self, name):
-        self.name = name
-
-
-class Roll(name):
-    def __init__(self, name):
-        self.name = name
-
-    # Rolls that can be defeated by self
-
-    # Rolls that defeated self
-
-    """
-    1. Rock > Scissors
-    2. Paper > Rock
-    3. Scissors > Paper
-    """
+from janken-classes import Roll, Player
 
 
 def print_header():
@@ -31,11 +14,24 @@ def print_header():
 
 
 def build_the_three_rolls():
-    pass
+    paper = Roll('paper')
+    rock = Roll('rock')
+    scissors = Roll('scissors')
+    rolls = [rock, paper, scissors]
+
+    return rolls
 
 
 def get_players_name():
-    pass
+    name = input('Enter your name: ').capitalize()
+
+    return name
+
+
+def get_player_roll():
+    proll = input('What is your play? [r]ock, [p]aper, [s]cissors ')
+
+
 
 
 def main():
@@ -55,13 +51,17 @@ def game_loop(player1, player2, rolls):
     count = 1
     while count < 3:
 
-        p2_roll = random.randint(1, 3)
-        p1_roll = ('[s]cissors, [p]aper or [r]ock?')
+        p2_roll = random.choice(rolls)
+        p1_roll = get_player_roll()
 
         outcome = p1_roll.can_defeat(p2_roll)
 
         # display throws
         print(f'Player 1 threw {p1_roll} and Player 2 threw {p2_roll}')
+
+        # Calculate winner
+
+
         # display winner for this round
         print(f'Player {outcome} wins!')
 
@@ -71,4 +71,6 @@ def game_loop(player1, player2, rolls):
 
 
 if __name__ == '__main__':
-    main()
+    print_header()
+
+
