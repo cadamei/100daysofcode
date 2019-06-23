@@ -29,11 +29,12 @@ def gen_pairs():
     while True:
 
         first, second = None, None
-        while first == second:
-            first, second = random.sample(single_names, 2)
+        while first == second and len(single_names) > 1:
+            first, second = [single_names.pop(random.randrange(0, len(single_names) - 1)),
+                             single_names.pop(random.randrange(0, len(single_names) - 1))]
         yield f"{first} teams up with {second}"
 
 
 pairs = gen_pairs()
-for _ in range(10):
+for _ in range((len(single_names2) - 1) / 2):
     print(next(pairs))
