@@ -40,3 +40,4 @@ def test_sort_dict_alphabetically():
         'Nissan': ['350Z', 'Maxima', 'Navara', 'Pulsar'],
     }
     assert actual == expected
+    assert actual == expected
