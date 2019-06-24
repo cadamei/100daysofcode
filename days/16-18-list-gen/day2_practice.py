@@ -26,15 +26,20 @@ print(f'{item1}, {item2}')
 
 def gen_pairs():
     single_names = [name.split()[0].title() for name in NAMES]
-    while True:
+    while len(single_names) > 1:
 
         first, second = None, None
-        while first == second and len(single_names) > 1:
+        while first == second:
             first, second = [single_names.pop(random.randrange(0, len(single_names) - 1)),
                              single_names.pop(random.randrange(0, len(single_names) - 1))]
         yield f"{first} teams up with {second}"
 
 
 pairs = gen_pairs()
-for _ in range((len(single_names2) - 1) / 2):
-    print(next(pairs))
+for _ in range(10):
+    try:
+        print(next(pairs))
+    except StopIteration:
+        print("Sorry no more pairs")
+        break
+
