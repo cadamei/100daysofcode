@@ -1,0 +1,30 @@
+Planning for day 2
+
+Application chosen is the movie demo.
+
+We could log:
+ - whether the imports were successful
+    - This would be an critical error
+ - A successful query return
+    - This would be informational
+ - a failure for requests to connect
+    - This would be an error
+ - if a user did not enter a search term
+    - this would be an error
+ - if there was an unknown error
+    - this would be an error
+
+Steps to add logging are:
+    1. Install logbook library
+    2. Globally configure how entries will be logged
+        1. Initialise logging with a method
+        2. Set the level of logging (trace, error etc)
+        3. Add a handler for where the logs are destined
+    3. Add log level objects
+        1. Choose the levels of log
+        2. Format your log entry strings with a variable
+
+
+When choosing the level of logging a WARNING level would be
+    for a user who uses the program incorrectly. A ERROR
+    is used of the application itself is broken
