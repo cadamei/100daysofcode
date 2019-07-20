@@ -5,11 +5,14 @@ import research
 
 def main():
     research.init()
-
-    print("Safest 5 suburbs to eat out")
-    print(research.data)
-    print(research.safest_suburbs())
-    print(research.sickest_suburbs())
+    print('')
+    print('Here are the suburbs with the lowest number of complaints')
+    for i in research.safest_suburbs():
+        print(f'{i[0]} has {i[1]} food saftey complaints')
+    print('')
+    print('Here are the suburbs with the highest number of complaints')
+    for i in research.sickest_suburbs():
+        print(f'{i[0]} has {i[1]} food saftey complaints')
 
 
 if __name__ == '__main__':
