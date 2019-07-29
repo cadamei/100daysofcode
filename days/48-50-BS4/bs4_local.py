@@ -17,10 +17,13 @@ def pull_site():
 
 def scrape(site):
     soup = bs4.BeautifulSoup(site, 'html.parser')
-    # print(soup)
-    soup_found = soup.findAll("div", class_="details_01af72f6")
-    # soup_found = soup.select('.details_01af72f6')
+    soup_found = soup.find_all('a',
+                               {'href': re.compile(r'https://nttlimited-my\.sharepoint\.com/person\.aspx\?user=.*')})
     print(soup_found)
+
+    names = [name.getText() for name in soup_found if name.getText()]
+    for name in names:
+        print(name)
 
 
 if __name__ == '__main__':
