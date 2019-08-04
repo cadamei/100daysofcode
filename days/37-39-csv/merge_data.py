@@ -8,6 +8,7 @@ import re
 def merge_data():
     base_folder = os.path.dirname(__file__)
     file_path = os.path.join(base_folder, 'data')
+    print(file_path)
     with open('merged_data.csv', 'a', encoding='utf-8') as merged:
         for i, filename in enumerate(os.listdir(file_path), 1):
             with open(os.path.join(file_path, filename), 'r', encoding='utf-8') as fin:
