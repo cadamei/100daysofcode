@@ -1,0 +1,225 @@
+#224 12 lessons from 100 days of web: https://talkpython.fm/episodes/show/224/12-lessons-from-100-days-of-web
+#223 Fun and Easy 2D Games with Python: https://talkpython.fm/episodes/show/223/fun-and-easy-2d-games-with-python
+#222 Interactive graphs with Bokeh and Python: https://talkpython.fm/episodes/show/222/interactive-graphs-with-bokeh-and-python
+#221 Empowering developers by embedding Python: https://talkpython.fm/episodes/show/221/empowering-developers-by-embedding-python
+#220 Machine Learning in the cloud with Azure ML: https://talkpython.fm/episodes/show/220/machine-learning-in-the-cloud-with-azure-ml
+#219 Take a Python tour of duty at the United States Digital Service: https://talkpython.fm/episodes/show/219/take-a-python-tour-of-duty-at-the-united-states-digital-service
+#218 Serverless Python functions in Azure: https://talkpython.fm/episodes/show/218/serverless-python-functions-in-azure
+#217 Notebooks vs data science-enabled scripts: https://talkpython.fm/episodes/show/217/notebooks-vs-data-science-enabled-scripts
+#216 Digging into Visual Studio Code: https://talkpython.fm/episodes/show/216/digging-into-visual-studio-code
+#215 The software powering Talk Python courses and podcast: https://talkpython.fm/episodes/show/215/the-software-powering-talk-python-courses-and-podcast
+#214 Dive into CPython 3.8 and beyond: https://talkpython.fm/episodes/show/214/dive-into-cpython-3.8-and-beyond
+#213 WebAssembly and CPython: https://talkpython.fm/episodes/show/213/webassembly-and-cpython
+#212 Python in Web Assembly with Pyodide: https://talkpython.fm/episodes/show/212/python-in-web-assembly-with-pyodide
+#211 Classic CS problems in Python: https://talkpython.fm/episodes/show/211/classic-cs-problems-in-python
+#210 Making the most out of in-person training: https://talkpython.fm/episodes/show/210/making-the-most-out-of-in-person-training
+#209 Inside Python's new governance model: https://talkpython.fm/episodes/show/209/inside-python-s-new-governance-model
+#208 Packaging, Making the most of PyCon, and more: https://talkpython.fm/episodes/show/208/packaging-making-the-most-of-pycon-and-more
+#207 Parallelizing computation with Dask: https://talkpython.fm/episodes/show/207/parallelizing-computation-with-dask
+#206 Running Django in Production: https://talkpython.fm/episodes/show/206/running-django-in-production
+#205 Beginners and Experts Panel: https://talkpython.fm/episodes/show/205/beginners-and-experts-panel
+#204 StaticFrame, like Pandas but safer: https://talkpython.fm/episodes/show/204/staticframe-like-pandas-but-safer
+#203 Beginners and Experts in Software Development: https://talkpython.fm/episodes/show/203/beginners-and-experts-in-software-development
+#202 Building a software business: https://talkpython.fm/episodes/show/202/building-a-software-business
+#201 Choosing JupyterHub and Python over MATLAB: https://talkpython.fm/episodes/show/201/choosing-jupyterhub-and-python-over-matlab
+#200 Escaping Excel Hell with Python and Pandas: https://talkpython.fm/episodes/show/200/escaping-excel-hell-with-python-and-pandas
+#199 Automate all the things with Python at Zapier: https://talkpython.fm/episodes/show/199/automate-all-the-things-with-python-at-zapier
+#198 Catching up with the Anaconda distribution: https://talkpython.fm/episodes/show/198/catching-up-with-the-anaconda-distribution
+#197 Modern Python Standard Library Cookbook: https://talkpython.fm/episodes/show/197/modern-python-standard-library-cookbook
+#196 Datalore: Hosted smart notebooks: https://talkpython.fm/episodes/show/196/datalore-hosted-smart-notebooks
+#195 Teaching Python at Apple: https://talkpython.fm/episodes/show/195/teaching-python-at-apple
+#194 Learning (and teaching) Python in a vacuum: https://talkpython.fm/episodes/show/194/learning-and-teaching-python-in-a-vacuum
+#193 Data Science Year in Review 2018 Edition: https://talkpython.fm/episodes/show/193/data-science-year-in-review-2018-edition
+#192 Python Year in Review 2018 Edition: https://talkpython.fm/episodes/show/192/python-year-in-review-2018-edition
+#191 Python's journey at Microsoft: https://talkpython.fm/episodes/show/191/python-s-journey-at-microsoft
+#190 Teaching Django: https://talkpython.fm/episodes/show/190/teaching-django
+#189 War Stories of the Developer Evangelists: https://talkpython.fm/episodes/show/189/war-stories-of-the-developer-evangelists
+#188 Async for the Pythonic web with Sanic: https://talkpython.fm/episodes/show/188/async-for-the-pythonic-web-with-sanic
+#187 Secure all the things with HubbleStack: https://talkpython.fm/episodes/show/187/secure-all-the-things-with-hubblestack
+#186 100 Days of Python in a Magical Universe: https://talkpython.fm/episodes/show/186/100-days-of-python-in-a-magical-universe
+#185 Creating a Python 3 Culture at Facebook: https://talkpython.fm/episodes/show/185/creating-a-python-3-culture-at-facebook
+#184 Teaching Python with BBC micro:bit: https://talkpython.fm/episodes/show/184/teaching-python-with-bbc-micro-bit
+#183 Qt for Python: https://talkpython.fm/episodes/show/183/qt-for-python
+#182 Picture Python at Shutterfly: https://talkpython.fm/episodes/show/182/picture-python-at-shutterfly
+#181 30 amazing Python projects: https://talkpython.fm/episodes/show/181/30-amazing-python-projects
+#180 What's new in Python 3.7 and beyond: https://talkpython.fm/episodes/show/180/what-s-new-in-python-3.7-and-beyond
+#179 Python Language Summit 2018: https://talkpython.fm/episodes/show/179/python-language-summit-2018
+#178 Coverage.py: https://talkpython.fm/episodes/show/178/coverage.py
+#177 Flask goes 1.0: https://talkpython.fm/episodes/show/177/flask-goes-1.0
+#176 The Python Community by the Numbers: https://talkpython.fm/episodes/show/176/the-python-community-by-the-numbers
+#175 Teaching Python to network engineers: https://talkpython.fm/episodes/show/175/teaching-python-to-network-engineers
+#174 Coming into Python from another Industry (part 2): https://talkpython.fm/episodes/show/174/coming-into-python-from-another-industry-part-2
+#173 Coming into Python from another Industry (part 1): https://talkpython.fm/episodes/show/173/coming-into-python-from-another-industry-part-1
+#172 Nuitka: A full Python compiler: https://talkpython.fm/episodes/show/172/nuitka-a-full-python-compiler
+#171 1M Jupyter notebooks analyzed: https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed
+#170 Guido van Rossum steps down: https://talkpython.fm/episodes/show/170/guido-van-rossum-steps-down
+#169 Becoming a Python content creator: https://talkpython.fm/episodes/show/169/becoming-a-python-content-creator
+#168 10 Python security holes and how to plug them: https://talkpython.fm/episodes/show/168/10-python-security-holes-and-how-to-plug-them
+#167 Simplifying Python's Async with Trio: https://talkpython.fm/episodes/show/167/simplifying-python-s-async-with-trio
+#166 Continuous delivery with Python: https://talkpython.fm/episodes/show/166/continuous-delivery-with-python
+#165 Python and the blockchain: https://talkpython.fm/episodes/show/165/python-and-the-blockchain
+#164 Python in Brain Research at the Allen Institute: https://talkpython.fm/episodes/show/164/python-in-brain-research-at-the-allen-institute
+#163 Python in Geoscience: https://talkpython.fm/episodes/show/163/python-in-geoscience
+#162 Python in Building and Architecture: https://talkpython.fm/episodes/show/162/python-in-building-and-architecture
+#161 Django 2.0: https://talkpython.fm/episodes/show/161/django-2.0
+#160 Lektor: Beautiful websites out of flat files: https://talkpython.fm/episodes/show/160/lektor-beautiful-websites-out-of-flat-files
+#159 Inside the new PyPI launch: https://talkpython.fm/episodes/show/159/inside-the-new-pypi-launch
+#158 Quantum Computing and Python: https://talkpython.fm/episodes/show/158/quantum-computing-and-python
+#157 The Journal of Open Source Software: https://talkpython.fm/episodes/show/157/the-journal-of-open-source-software
+#156 Python History and Perspectives: https://talkpython.fm/episodes/show/156/python-history-and-perspectives
+#155 Practical steps for moving to Python 3: https://talkpython.fm/episodes/show/155/practical-steps-for-moving-to-python-3
+#154 Python in Biology and Genomics: https://talkpython.fm/episodes/show/154/python-in-biology-and-genomics
+#153 How Python Evolves: https://talkpython.fm/episodes/show/153/how-python-evolves
+#152 Understanding and using Python's AST: https://talkpython.fm/episodes/show/152/understanding-and-using-python-s-ast
+#151 Gradual Typing of Production Applications: https://talkpython.fm/episodes/show/151/gradual-typing-of-production-applications
+#150 Technical Lessons Learned from Pythonic Refactoring: https://talkpython.fm/episodes/show/150/technical-lessons-learned-from-pythonic-refactoring
+#149 4 Python Web Frameworks, Compared: https://talkpython.fm/episodes/show/149/4-python-web-frameworks-compared
+#148 Python Book Authors'  Panel Discussion: https://talkpython.fm/episodes/show/148/python-book-authors-panel-discussion
+#147 Quart: Flask, but 3x faster: https://talkpython.fm/episodes/show/147/quart-flask-but-3x-faster
+#146 Building Alexa Skills with Python and Flask: https://talkpython.fm/episodes/show/146/building-alexa-skills-with-python-and-flask
+#145 2017 Python Year in Review: https://talkpython.fm/episodes/show/145/2017-python-year-in-review
+#144 Machine Learning at the Large Hadron Collider: https://talkpython.fm/episodes/show/144/machine-learning-at-the-large-hadron-collider
+#143 Tuning Python Web App Performance: https://talkpython.fm/episodes/show/143/tuning-python-web-app-performance
+#142 Automating the web with Selenium and InstaPy: https://talkpython.fm/episodes/show/142/automating-the-web-with-selenium-and-instapy
+#141 Python tricks: https://talkpython.fm/episodes/show/141/python-tricks
+#140 Level up your Python with #100DaysOfCode challenge: https://talkpython.fm/episodes/show/140/level-up-your-python-with-100daysofcode-challenge
+#139 Paths into a data science career: https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career
+#138 Anvil: All web, all Python: https://talkpython.fm/episodes/show/138/anvil-all-web-all-python
+#137 Design concepts and tips for developers: https://talkpython.fm/episodes/show/137/design-concepts-and-tips-for-developers
+#136 Secure code lessons from Have I Been Pwned: https://talkpython.fm/episodes/show/136/secure-code-lessons-from-have-i-been-pwned
+#135 Capturing human moments with AI and Python: https://talkpython.fm/episodes/show/135/capturing-human-moments-with-ai-and-python
+#134 Python in Climate Science: https://talkpython.fm/episodes/show/134/python-in-climate-science
+#133 Productivity for developers: https://talkpython.fm/episodes/show/133/productivity-for-developers
+#132 Contributing to open source: https://talkpython.fm/episodes/show/132/contributing-to-open-source
+#131 Top 10 machine learning libraries: https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries
+#130 10 books Python developers should be reading: https://talkpython.fm/episodes/show/130/10-books-python-developers-should-be-reading
+#129 Falcon: The bare-metal Python web framework: https://talkpython.fm/episodes/show/129/falcon-the-bare-metal-python-web-framework
+#128 Pythonic Networks with NAPALM: https://talkpython.fm/episodes/show/128/pythonic-networks-with-napalm
+#127 Shipping software to users: https://talkpython.fm/episodes/show/127/shipping-software-to-users
+#126 Kubernetes for Pythonistas: https://talkpython.fm/episodes/show/126/kubernetes-for-pythonistas
+#125 Django REST framework and a new API star is born: https://talkpython.fm/episodes/show/125/django-rest-framework-and-a-new-api-star-is-born
+#124 Python for AI research: https://talkpython.fm/episodes/show/124/python-for-ai-research
+#123 Lessons from 100 straight dev job interviews: https://talkpython.fm/episodes/show/123/lessons-from-100-straight-dev-job-interviews
+#122 Home Assistant: Pythonic Home Automation: https://talkpython.fm/episodes/show/122/home-assistant-pythonic-home-automation
+#121 Microservices in Python: https://talkpython.fm/episodes/show/121/microservices-in-python
+#120 Python in Finance: https://talkpython.fm/episodes/show/120/python-in-finance
+#119 Python in Engineering: https://talkpython.fm/episodes/show/119/python-in-engineering
+#118 Serverless software: https://talkpython.fm/episodes/show/118/serverless-software
+#117 Functional Python with Coconut: https://talkpython.fm/episodes/show/117/functional-python-with-coconut
+#116 10 top talks of PyCon 2017 reviewed: https://talkpython.fm/episodes/show/116/10-top-talks-of-pycon-2017-reviewed
+#115 Python for Humans projects: https://talkpython.fm/episodes/show/115/python-for-humans-projects
+#114 Empowering developers at the Hidden Genius project: https://talkpython.fm/episodes/show/114/empowering-developers-at-the-hidden-genius-project
+#113 Dedicated AI chips and running old Python faster at Intel: https://talkpython.fm/episodes/show/113/dedicated-ai-chips-and-running-old-python-faster-at-intel
+#112 Geeking out in the golden years: https://talkpython.fm/episodes/show/112/geeking-out-in-the-golden-years
+#111 Pythonic Career Advice and More: https://talkpython.fm/episodes/show/111/pythonic-career-advice-and-more
+#110 Data Democratization with Redash: https://talkpython.fm/episodes/show/110/data-democratization-with-redash
+#109 MongoDB Applied Design Patterns: https://talkpython.fm/episodes/show/109/mongodb-applied-design-patterns
+#108 MicroPython and Open Source Hardware at Adafruit: https://talkpython.fm/episodes/show/108/micropython-and-open-source-hardware-at-adafruit
+#107 Python concurrency with Curio: https://talkpython.fm/episodes/show/107/python-concurrency-with-curio
+#106 Invent your own computer games with Python: https://talkpython.fm/episodes/show/106/invent-your-own-computer-games-with-python
+#105 A Pythonic Database Tour: https://talkpython.fm/episodes/show/105/a-pythonic-database-tour
+#104 Game Theory in Python: https://talkpython.fm/episodes/show/104/game-theory-in-python
+#103 Compiling Python through PyLLVM and MongoDB for Data Scientists: https://talkpython.fm/episodes/show/103/compiling-python-through-pyllvm-and-mongodb-for-data-scientists
+#102 Effective Code Reviews: https://talkpython.fm/episodes/show/102/effective-code-reviews
+#101 Adding a full featured Python environment to  Visual Studio Code: https://talkpython.fm/episodes/show/101/adding-a-full-featured-python-environment-to-visual-studio-code
+#100 Python past, present, and future with Guido van Rossum: https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
+#99 Morepath: Super Powered Python Web Framework: https://talkpython.fm/episodes/show/99/morepath-super-powered-python-web-framework
+#98 Adding concurrency to Django with Django Channels: https://talkpython.fm/episodes/show/98/adding-concurrency-to-django-with-django-channels
+#97 Flask, Django style with Flask-Diamond: https://talkpython.fm/episodes/show/97/flask-django-style-with-flask-diamond
+#96 Exploring Awesome Python: https://talkpython.fm/episodes/show/96/exploring-awesome-python
+#95 Grumpy: Running Python on Go: https://talkpython.fm/episodes/show/95/grumpy-running-python-on-go
+#94 Guarenteed packages via Conda and Conda-Forge: https://talkpython.fm/episodes/show/94/guarenteed-packages-via-conda-and-conda-forge
+#93 Spreading Python through the sciences with Software Carpentry: https://talkpython.fm/episodes/show/93/spreading-python-through-the-sciences-with-software-carpentry
+#92 Bonus: Python Bytes Crossover: Python 3.6 is going to be awesome, Kite: your friendly co-developing AI: https://talkpython.fm/episodes/show/92/bonus-python-bytes-crossover-python-3.6-is-going-to-be-awesome-kite-your-friendly-co-developing-ai
+#91 Top 10 Data Science Stories of 2016: https://talkpython.fm/episodes/show/91/top-10-data-science-stories-of-2016
+#90 Data Wrangling with Python: https://talkpython.fm/episodes/show/90/data-wrangling-with-python
+#89 A conversation with the Chief Data Scientist of the United States: https://talkpython.fm/episodes/show/89/a-conversation-with-the-chief-data-scientist-of-the-united-states
+#88 Lightweight Django: https://talkpython.fm/episodes/show/88/lightweight-django
+#87 PonyORM: The most Pythonic ORM yet?: https://talkpython.fm/episodes/show/87/ponyorm-the-most-pythonic-orm-yet
+#86 Python at StackOverflow: https://talkpython.fm/episodes/show/86/python-at-stackoverflow
+#85 Parsing horrible things with Python: https://talkpython.fm/episodes/show/85/parsing-horrible-things-with-python
+#84 Are we failing to fund Python's core infrastructure?: https://talkpython.fm/episodes/show/84/are-we-failing-to-fund-python-s-core-infrastructure
+#83 Python Videos on Demand at PyVideo: https://talkpython.fm/episodes/show/83/python-videos-on-demand-at-pyvideo
+#82 Grokking Algorithms in Python: https://talkpython.fm/episodes/show/82/grokking-algorithms-in-python
+#81 Python and Machine Learning in Astronomy: https://talkpython.fm/episodes/show/81/python-and-machine-learning-in-astronomy
+#80 TinyDB: A tiny document db written in Python: https://talkpython.fm/episodes/show/80/tinydb-a-tiny-document-db-written-in-python
+#79 Beeware Python Tools: https://talkpython.fm/episodes/show/79/beeware-python-tools
+#78 How I built an entire game and toolchain 100% in Python: https://talkpython.fm/episodes/show/78/how-i-built-an-entire-game-and-toolchain-100-in-python
+#77 20 Python Libraries You Aren't Using (But Should): https://talkpython.fm/episodes/show/77/20-python-libraries-you-aren-t-using-but-should
+#76 Renewable Python: https://talkpython.fm/episodes/show/76/renewable-python
+#75 Pythonic games at CheckIO: https://talkpython.fm/episodes/show/75/pythonic-games-at-checkio
+#74 Past, Present, and Future of IronPython: https://talkpython.fm/episodes/show/74/past-present-and-future-of-ironpython
+#73 Machine learning at the new Microsoft: https://talkpython.fm/episodes/show/73/machine-learning-at-the-new-microsoft
+#72 Fashion-driven open source software at Zalando: https://talkpython.fm/episodes/show/72/fashion-driven-open-source-software-at-zalando
+#71 Soft Skills: The software developer's life manual: https://talkpython.fm/episodes/show/71/soft-skills-the-software-developer-s-life-manual
+#70 Pythonic cover songs at Loudr: https://talkpython.fm/episodes/show/70/pythonic-cover-songs-at-loudr
+#69 Write an Excellent Programming Blog: https://talkpython.fm/episodes/show/69/write-an-excellent-programming-blog
+#68 Crossing the streams with Podcast.__init__: https://talkpython.fm/episodes/show/68/crossing-the-streams-with-podcast.-init
+#67 Property-based Testing with Hypothesis: https://talkpython.fm/episodes/show/67/property-based-testing-with-hypothesis
+#66 Faster Python Programs: Measure, Don't Guess: https://talkpython.fm/episodes/show/66/faster-python-programs-measure-don-t-guess
+#65 Jump on the real-time web with RethinkDB: https://talkpython.fm/episodes/show/65/jump-on-the-real-time-web-with-rethinkdb
+#64 Inside the Python Package Index: https://talkpython.fm/episodes/show/64/inside-the-python-package-index
+#63 Validating Python tests with mutation testing: https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing
+#62 San Diego Technology Immersion Group Learns Python: https://talkpython.fm/episodes/show/62/san-diego-technology-immersion-group-learns-python
+#61 Free software, free people: https://talkpython.fm/episodes/show/61/free-software-free-people
+#60 Scaling Python to 1000's of cores with Ufora: https://talkpython.fm/episodes/show/60/scaling-python-to-1000-s-of-cores-with-ufora
+#59 SageMath - Open source is ready to compete in the classroom: https://talkpython.fm/episodes/show/59/sagemath-open-source-is-ready-to-compete-in-the-classroom
+#58 Create better Python programs with concurrency, libraries, and patterns: https://talkpython.fm/episodes/show/58/create-better-python-programs-with-concurrency-libraries-and-patterns
+#57 Python performance from the inside-out at Intel: https://talkpython.fm/episodes/show/57/python-performance-from-the-inside-out-at-intel
+#56 Data Science from Scratch: https://talkpython.fm/episodes/show/56/data-science-from-scratch
+#55 How our engineering environments are killing diversity (and how we can fix it): https://talkpython.fm/episodes/show/55/how-our-engineering-environments-are-killing-diversity-and-how-we-can-fix-it
+#54 Enterprise Software with Python: https://talkpython.fm/episodes/show/54/enterprise-software-with-python
+#53 Python in Visual Studio: https://talkpython.fm/episodes/show/53/python-in-visual-studio
+#52 EVE Online: MMO game powered by Python: https://talkpython.fm/episodes/show/52/eve-online-mmo-game-powered-by-python
+#51 SigOpt: Optimizing Everything with Python: https://talkpython.fm/episodes/show/51/sigopt-optimizing-everything-with-python
+#50 Web scraping at scale with Scrapy and ScrapingHub: https://talkpython.fm/episodes/show/50/web-scraping-at-scale-with-scrapy-and-scrapinghub
+#49 Microsoft's JIT-based Python Project: Pyjion: https://talkpython.fm/episodes/show/49/microsoft-s-jit-based-python-project-pyjion
+#48 Building Flask-based Web Apps: https://talkpython.fm/episodes/show/48/building-flask-based-web-apps
+#47 Python in Typeface and Font Development: https://talkpython.fm/episodes/show/47/python-in-typeface-and-font-development
+#46 Python in Movies and Entertainment: https://talkpython.fm/episodes/show/46/python-in-movies-and-entertainment
+#45 The Python Testing Column, Now a Thing: https://talkpython.fm/episodes/show/45/the-python-testing-column-now-a-thing
+#44 Project Jupyter and IPython: https://talkpython.fm/episodes/show/44/project-jupyter-and-ipython
+#43 Monitoring high performance Python apps at Opbeat: https://talkpython.fm/episodes/show/43/monitoring-high-performance-python-apps-at-opbeat
+#42 Python in Startups and Investing: https://talkpython.fm/episodes/show/42/python-in-startups-and-investing
+#41 Getting your first dev job as a Python developer (part 2): https://talkpython.fm/episodes/show/41/getting-your-first-dev-job-as-a-python-developer-part-2
+#40 Top 10 Data Science Stories from 2015: https://talkpython.fm/episodes/show/40/top-10-data-science-stories-from-2015
+#39 Getting your first dev job as a Python developer (part 1): https://talkpython.fm/episodes/show/39/getting-your-first-dev-job-as-a-python-developer-part-1
+#38 Continuous Integration and Delivery at Codeship: https://talkpython.fm/episodes/show/38/continuous-integration-and-delivery-at-codeship
+#37 Python Cybersecurity and Penetration Testing: https://talkpython.fm/episodes/show/37/python-cybersecurity-and-penetration-testing
+#36 Python IDEs with the PyCharm team: https://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team
+#35 Turbogears and the future of Python web frameworks: https://talkpython.fm/episodes/show/35/turbogears-and-the-future-of-python-web-frameworks
+#34 Continuum: Scientific Python and The Business of Open Source: https://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source
+#33 OpenStack: Cloud computing built on Python: https://talkpython.fm/episodes/show/33/openstack-cloud-computing-built-on-python
+#32 PyPy.js - PyPy Python in Your Browser: https://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser
+#31 Machine Learning with Python and scikit-learn: https://talkpython.fm/episodes/show/31/machine-learning-with-python-and-scikit-learn
+#30 Python Community and Python at Dropbox: https://talkpython.fm/episodes/show/30/python-community-and-python-at-dropbox
+#29 Python at the Large Hadron Collider and CERN: https://talkpython.fm/episodes/show/29/python-at-the-large-hadron-collider-and-cern
+#28 Making Python Fast: Profiling Python Code: https://talkpython.fm/episodes/show/28/making-python-fast-profiling-python-code
+#27 Four Years of Python for High Schoolers: https://talkpython.fm/episodes/show/27/four-years-of-python-for-high-schoolers
+#26 Deploying Python Web Applications (Updated): https://talkpython.fm/episodes/show/26/deploying-python-web-applications-updated
+#25 Effective Python: https://talkpython.fm/episodes/show/25/effective-python
+#24 Fluent Python: https://talkpython.fm/episodes/show/24/fluent-python
+#23 3D Printing with Python at Authentise: https://talkpython.fm/episodes/show/23/3d-printing-with-python-at-authentise
+#22 CPython Internals and Learning Python with pythontutor.com: https://talkpython.fm/episodes/show/22/cpython-internals-and-learning-python-with-pythontutor.com
+#21 PyPy - The JIT Compiled Python Implementation: https://talkpython.fm/episodes/show/21/pypy-the-jit-compiled-python-implementation
+#20 Interactive Python and Teaching Python: Beyond Text Books: https://talkpython.fm/episodes/show/20/interactive-python-and-teaching-python-beyond-text-books
+#19 Automate the Boring Stuff with Python: https://talkpython.fm/episodes/show/19/automate-the-boring-stuff-with-python
+#18 Python Anti-patterns and other mistakes: https://talkpython.fm/episodes/show/18/python-anti-patterns-and-other-mistakes
+#17 Python on bare metal with MicroPython: https://talkpython.fm/episodes/show/17/python-on-bare-metal-with-micropython
+#16 Python at Netflix: https://talkpython.fm/episodes/show/16/python-at-netflix
+#15 Python at Spotify, PSF, and PyLadies: https://talkpython.fm/episodes/show/15/python-at-spotify-psf-and-pyladies
+#14 Moving from PHP to Python 3 with Patreon: https://talkpython.fm/episodes/show/14/moving-from-php-to-python-3-with-patreon
+#13 Flask web framework and much, much more: https://talkpython.fm/episodes/show/13/flask-web-framework-and-much-much-more
+#12 Deep Dive into Modules and Packages: https://talkpython.fm/episodes/show/12/deep-dive-into-modules-and-packages
+#11 PyImageSearch and Computer Vision: https://talkpython.fm/episodes/show/11/pyimagesearch-and-computer-vision
+#10 Bringing Python to the Masses with Hosting and DevOps at PythonAnywhere: https://talkpython.fm/episodes/show/10/bringing-python-to-the-masses-with-hosting-and-devops-at-pythonanywhere
+#9 Docker for the Python Developer: https://talkpython.fm/episodes/show/9/docker-for-the-python-developer
+#8 Teaching Python at Grok Learning and Classrooms: https://talkpython.fm/episodes/show/8/teaching-python-at-grok-learning-and-classrooms
+#7 Robot Operating System (ROS) and ROSPy: https://talkpython.fm/episodes/show/7/robot-operating-system-ros-and-rospy
+#6 Requests, PyCon, and Python's future: https://talkpython.fm/episodes/show/6/requests-pycon-and-python-s-future
+#5 SQLAlchemy and data access in Python: https://talkpython.fm/episodes/show/5/sqlalchemy-and-data-access-in-python
+#4 Enterprise Python and Large-Scale Projects: https://talkpython.fm/episodes/show/4/enterprise-python-and-large-scale-projects
+#3 Pyramid Web Framework: https://talkpython.fm/episodes/show/3/pyramid-web-framework
+#2 Python and MongoDB: https://talkpython.fm/episodes/show/2/python-and-mongodb
+#1 EVE - RESTful APIs for humans: https://talkpython.fm/episodes/show/1/eve-restful-apis-for-humans
+#0 Introducing the show!: https://talkpython.fm/episodes/show/0/introducing-the-show
